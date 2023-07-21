@@ -16,5 +16,5 @@ if(verificaPesoValido && verificaAlturaValida)
 }
 else
 {
-    console.log("Peso e altura devem ser maiores que zero");
+    console.log("Peso e altura devem ser maiores que zero!");
 }
